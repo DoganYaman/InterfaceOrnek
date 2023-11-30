@@ -1,0 +1,15 @@
+D:\PatikaDev\Patika_Pratikler\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.exe
+D:\PatikaDev\Patika_Pratikler\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.deps.json
+D:\PatikaDev\Patika_Pratikler\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.runtimeconfig.json
+D:\PatikaDev\Patika_Pratikler\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.runtimeconfig.dev.json
+D:\PatikaDev\Patika_Pratikler\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.dll
+D:\PatikaDev\Patika_Pratikler\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.pdb
+D:\PatikaDev\Patika_Pratikler\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_Pratikler\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_Pratikler\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.AssemblyInfo.cs
+D:\PatikaDev\Patika_Pratikler\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_Pratikler\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.dll
+D:\PatikaDev\Patika_Pratikler\arayuzler-ornek\obj\Debug\net5.0\refint\arayuzler-ornek.dll
+D:\PatikaDev\Patika_Pratikler\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.pdb
+D:\PatikaDev\Patika_Pratikler\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.genruntimeconfig.cache
+D:\PatikaDev\Patika_Pratikler\arayuzler-ornek\obj\Debug\net5.0\ref\arayuzler-ornek.dll
